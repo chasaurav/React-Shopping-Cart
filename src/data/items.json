@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "https://picsum.photos/600/300"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1011,
+        "imgUrl": "https://picsum.photos/600/300"
+    },
+    {
+        "id": 3,
+        "name": "Chairs",
+        "price": 50,
+        "imgUrl": "https://picsum.photos/600/300"
+    },
+    {
+        "id": 4,
+        "name": "Tables",
+        "price": 55,
+        "imgUrl": "https://picsum.photos/600/300"
+    },
+    {
+        "id": 5,
+        "name": "Shirts",
+        "price": 5.05,
+        "imgUrl": "https://picsum.photos/600/300"
+    }
+]
